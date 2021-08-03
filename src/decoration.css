@@ -1,0 +1,26 @@
+#input-1:focus{
+    background-color: rgb(216, 211, 211);
+}
+
+#input-2:focus{
+    background-color: rgb(216, 211, 211);
+}
+
+#input-3:focus{
+    background-color: rgb(216, 211, 211);
+}
+
+.label_programming{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(255, 221, 221);
+}
+
+.h1{
+    color: blue;
+}
+.h3{
+    color: blue;
+}
